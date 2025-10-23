@@ -5,8 +5,6 @@ def greet(name):
 
 def add_numbers(a, b):
     return a + b 
-
-# Main program
 if __name__ == "__main__":
     greet("Akash")
 
