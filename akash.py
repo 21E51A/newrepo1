@@ -10,7 +10,7 @@ def add_numbers(a, b):
 if __name__ == "__main__":
     greet("Akash")
 
-    num1 = 1000
+    num1 = 100
     num2 = 200
     result = add_numbers(num1, num2)
     print(f"The sum of {num1} and {num2} is {result}.")
