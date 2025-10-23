@@ -4,7 +4,7 @@ def greet(name):
     print(f"Hello, {name}! Welcome to Python programming.")
 
 def add_numbers(a, b):
-    return a + b
+    return a + b + c
 
 # Main program
 if __name__ == "__main__":
